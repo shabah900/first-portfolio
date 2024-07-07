@@ -1,0 +1,86 @@
+.prothom{
+   width: 1422px;
+   margin: 0 auto ;
+   border: 2px solid red;
+   min-height: 600px;   
+   margin-top: 20px;
+   background-image: url("../media/Banner\ Image.png");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+#first-div{
+    background-color: rgba(56, 54, 59, 0);
+    align-items: center;
+    color: white;
+    display: flex;
+    height: 600px;
+    flex-direction: column;
+    justify-content: center;
+    background-blend-mode: overlay;
+    
+    /* flex direction  (column )borabor thakle .... align item kaj kre row borabor .. tokhn align-items: center dile content row borabor center a thakbe ; */
+
+}
+#first-div p{
+    font-size: 32px;
+    margin-bottom: -30px;
+}
+#first-div h1{
+    font-size:72px;
+    
+
+}
+#second-page{
+   text-align: center;
+   width: 802.9px;
+height: 806px;
+margin: 0 auto ;
+border: 2px solid red;
+
+/* margin-left: 399px;
+margin-right: 398.1px; */
+margin-top: 120px;
+margin-bottom: 120px;
+}
+
+ /* style for new year image */
+#new-year{
+    height: 500px;
+    /* margin-bottom: -200px; */
+}
+#second-page>#p1{    
+    font-size: 65px;
+    font-weight: bold;
+    color: rgb(255, 140, 0);
+    margin-bottom: 15px;
+}
+#second-page>#p2{    
+    font-size: 25px;
+    margin-bottom: -10px;
+    color: rgb(255, 140, 0);
+}
+#second-page>h2{    
+    font-size: 40px;
+}
+.border{
+    margin: 0 auto ;
+border: 2px solid red;
+}
+#third-page{
+    display: flex;
+    background-image: url("../media/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: fixed ;
+    background-size: cover;
+    color: white;
+    
+}
+#third-page>#third-1{
+    margin: 136px 20px 20px 136px;
+    width: 660px;
+}
+#third-page>#third-2{
+margin: 68px 108px 67px;
+}

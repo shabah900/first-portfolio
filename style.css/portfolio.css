@@ -1,0 +1,39 @@
+#pg1{
+    display: flex;
+    width: 1280px;
+    height: 365px;
+}
+#div1{
+background-color: aqua;    height: 365px;
+ width: 250px;
+
+}
+#div2{
+background-color: burlywood;    height: 365px;
+width: 800px;
+
+
+}
+#div2 >h2{
+    
+    padding-bottom: 70px;
+}
+#div2 #hi{
+   font-size: 30px;    
+}
+#div2 >h1{
+    font-size: 40px;
+    padding: 5px;
+}
+#div3{
+background-color: cornflowerblue;    height: 365px;
+width: 900px;
+
+}
+.button{
+    
+}
+
+#download{
+    background-color: chocolate;
+}
